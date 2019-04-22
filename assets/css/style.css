@@ -1,0 +1,74 @@
+
+body{
+	background: url("../images/background.jpg") no-repeat center center fixed;
+	background-size: cover;
+
+}
+
+h1{
+	font-family: 'Cinzel', serif;
+	font-size: 90px;
+	margin-top: 30px;
+    margin-bottom: 6px;
+}
+
+.row{
+	margin-bottom: 4vh;
+	margin-left: 3vw;
+	margin-right: 3vw;
+}
+
+.btn{
+	font-family: 'Cinzel', serif;
+	font-size: 16px;
+	background-color: #1c2429;
+	color: white;
+	padding: 1vh 1vw;
+}
+
+.btn:hover{
+	color: gold;
+}
+
+.btn:focus{
+	outline: 2px solid gold;
+	color: gold;
+}
+
+.GOT-button{
+	margin: .5vh 1vw;
+}
+
+.Cinzel-font{
+	font-family: 'Cinzel', 'serif';
+	font-size: 18px;
+	font-weight: 800;
+	color: rgb(8, 8, 8);
+}
+
+.gif-image{
+	margin-top: 1vh;
+	margin-bottom: 1vh;
+}
+
+.individual-gif-container{
+	float: left;
+	margin: 2vh 3vw 2vh 3vw;
+}
+
+#submit{
+	margin-top: 1.5vh;
+}
+
+#GOT-show{
+	margin-top: 1.5vh;
+	width: 100%;
+}
+
+#GOT-show:focus{
+	outline: 2px solid gold;
+}
+
+#gif-container{
+	font-size: 22px;
+}
